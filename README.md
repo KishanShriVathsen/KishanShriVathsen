@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey there, I'm Kishan! 👋
 
-<!--
-**KishanShriVathsen/KishanShriVathsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Engineering Student
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and improving my skills in Java, React, Tailwind CSS, and Git/GitHub.
+
+🛠️ I enjoy building projects and learning by doing.
+
+
+
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Frontend:** React, Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Vite
+
+## Projects
+
+- ⁕ YouTube Clone — A video browsing interface built with React.
+- ⁕ Crypto Project — Coming soon!
+
+## 🎯 Current Goals
+
+-⁕ Strengthen my Java programming skills.
+-⁕ Build better React projects.
+-⁕ Learn Spring Boot, SQL, and database management.
+-⁕ Become a Java Full Stack Developer.
+
+##  Connect With Me
+
+- GitHub: [@KishanShriVathsen](https://github.com/KishanShriVathsen)
+
+---
+
+⭐ *Learning every day. Building one project at a time.*
